@@ -8,10 +8,19 @@ import tw from "../images/Twitter Icon.png"
 export default function Footer() {
     return (
         <div className="footer">
-            <img src={tw}/>
-            <img src={fb}/>
-            <img src={ig}/>
-            <img src={gh}/>
+            <a href="https://twitter.com/aatishdhami" target="_blank">
+                <img src={tw}/>
+            </a>
+            <a href="https://facebook.com/dhamiaatish" target="_blank">
+                <img src={fb}/>
+            </a>
+            <a href="https://instagram.com/aatish_dhami" target="_blank">
+                <img src={ig}/>
+            </a>
+            <a href="https://github.com/Aatish-Dhami" target="_blank">
+                <img src={gh}/>
+            </a>
+
         </div>
     )
 }
