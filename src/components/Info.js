@@ -16,7 +16,7 @@ export default function Info() {
                     <img src= {EmailImage} />
                     <h2>Email</h2>  
                 </a>
-                <a className="linkedin-button" href="https://www.linkedin.com/in/aatish-dhami/" target="_blank">
+                <a className="linkedin-button" href="https://www.linkedin.com/in/aatish-dhami/" target="_blank" >
                     <img src= {Limage} />
                     <h2>LinkedIn</h2>
                 </a>
