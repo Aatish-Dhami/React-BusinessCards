@@ -1,8 +1,7 @@
 import React from "react";
-import image1 from "/Users/aatishdhami/Documents/Personal Project/businesscards/src/images/image1.png";
-import EmailImage from "/Users/aatishdhami/Documents/Personal Project/businesscards/src/images/Mail.png";
-import Limage from "/Users/aatishdhami/Documents/Personal Project/businesscards/src/images/linkedin.png"
-import EmailButton from "./InfoButtons/EmailButton";
+import image1 from "../images/image1.png";
+import EmailImage from "../images/Mail.png";
+import Limage from "../images/linkedin.png"
 
 export default function Info() {
     return (
